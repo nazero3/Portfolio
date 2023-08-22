@@ -14,7 +14,7 @@ function Navbar(){
 					<span>02.</span>Experience
 				</a>
 				<a href="#work" className={styles.nav_link}>
-					<span>03.</span>Work
+					<span>03.</span>Projects
 				</a>
 				<a href="#contact" className={styles.nav_link}>
 					<span>04.</span>Contact
