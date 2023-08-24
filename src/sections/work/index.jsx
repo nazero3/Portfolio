@@ -27,10 +27,10 @@ function Work() {
 									))}
 								</div>
 								<div>
-									<a href="/" className={styles.link}>
+									<a href="https://github.com/nazero3/LocalEats_frontend" className={styles.link}>
 										<GitHubIcon />
 									</a>
-									<a href="/" className={styles.link}>
+									<a href="https://local-eats-frontend.vercel.app/" className={styles.link}>
 										<OpenInNewIcon />
 									</a>
 								</div>
@@ -49,10 +49,10 @@ function Work() {
 									))}
 								</div>
 								<div>
-									<a href="/" className={styles.link}>
+									<a href="https://github.com/nazero3/LuggPicker" className={styles.link}>
 										<GitHubIcon />
 									</a>
-									<a href="/" className={styles.link}>
+									<a href="https://luggpicker-beige.vercel.app/" className={styles.link}>
 										<OpenInNewIcon />
 									</a>
 								</div>
