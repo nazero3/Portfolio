@@ -7,13 +7,13 @@ function contactbar() {
     <div className={styles.contact_bar_wrapper}>
       <div className={styles.contact_bar}>
         <a
-          href="/"
+          href="https://www.linkedin.com/in/nezir-ayd%C4%B1n-363364b5/"
           target="https://www.linkedin.com/in/nezir-ayd%C4%B1n-363364b5/"
           className={styles.icon}
         >
           <LinkedInIcon />
         </a>
-        <a href="/" target="https://github.com/nazero3" className={styles.icon}>
+        <a href="https://github.com/nazero3" target="https://github.com/nazero3" className={styles.icon}>
           <GitHubIcon />
         </a>
         <div className={styles.line}></div>
