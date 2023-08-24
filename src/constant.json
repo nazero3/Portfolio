@@ -48,7 +48,7 @@
             "desc": "The purpose of this website is to: Connect customers with cooks who offer homemade food. Support local cookers and help customers who are looking for homemade food",
             "skills": ["React", "Express", "MongoDB"],
             "github": "https://github.com/nazero3/LocalEats",
-            "link": "https://vercel.com/nazero3/local-eats-frontend"
+            "link": "https://local-eats-frontend.vercel.app/"
         },
         {
             "title":"Luggpicker",
