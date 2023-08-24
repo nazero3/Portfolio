@@ -1,58 +1,61 @@
 {
     "experiences": [
         {
-            "company": "Microsoft",
-            "link": "/",
-            "title": "Sr. Frontend Developer",
-            "duration": "Aug 2021 - Present",
+            "company": "Karel",
+            "link": "https://karel.com/",
+            "title": "Software Engineer",
+            "duration": "May 2022 - Present",
             "desc": [
-                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "when an unknown printer took a galley of type and scrambled.",
-                "It is a long established fact that a reader will be distracted."
+                "Research of 5g network technologies specifically in UPF (user plane function)",
+                "Research DPI (deep packet inspection) and implement some of its feautres (IP , port blocking, Qos) using open sources such as DPDK (data plane development kit) and pcapplus",
+                "Developed the Api and front-end for web applications using nodejs and angular"
             ]
         },
         {
-            "company": "Apple",
-            "link": "/",
-            "title": "Jr. Frontend Developer",
-            "duration": "Jan 2021 - Aug 2021",
+            "company": "Re:coded",
+            "link": "https://www.re-coded.com/",
+            "title": "Backend Development bootcamp",
+            "duration": "Mar 2023 - Sep 2023",
             "desc": [
-                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "when an unknown printer took a galley of type and scrambled.",
-                "Various versions have evolved over the years, sometimes by accident"
+                "Javascript, typescript , authentication, testing , mock testing and many other subjects were covered in this bootcamp"
             ]
         },
         {
-            "company": "Google",
-            "link": "/",
-            "title": "Internship",
-            "duration": "Sep 2020 - Jan 2021",
+            "company": "Medpointr",
+            "link": "https://www.medpointr.com/",
+            "title": "Software Engineer (Computer Vision)",
+            "duration": "Oct 2021 - May 2022",
             "desc": [
-                "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-                "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
-                "when an unknown printer took a galley of type and scrambled.",
-                "It is a long established fact that a reader will be distracted."
+                "Implement opencv library for improving object detection using C++ language and QT framework.",
+                "Design 3d models and prototypes using Solidworks"
+            ]
+        },
+        {
+            "company": "Besmak",
+            "link": "http://www.besmaklab.com/",
+            "title": "Mechatronics Engineer",
+            "duration": "Jun 2018 - Feb 2020",
+            "desc": [
+                "Designing machines testing machines using Solidworks and Auto-cad",
+                "Designing hydraulics cylinders and schematic drawings",
+                "Collaborating with the technicians to find solutions to day-to-day problems in the process of manufacturing"
             ]
         }
     ],
     "projects": [
         {
-            "title":"Ecommerce",
-            "image": "./images/project_1.png",
-            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+            "title":"LocalEat",
+            "desc": "The purpose of this website is to: Connect customers with cooks who offer homemade food. Support local cookers and help customers who are looking for homemade food",
             "skills": ["React", "Express", "MongoDB"],
-            "github": "/",
-            "link": ""
+            "github": "https://github.com/nazero3/LocalEats",
+            "link": "https://vercel.com/nazero3/local-eats-frontend"
         },
         {
-            "title":"Spotify",
-            "image": "./images/project_2.png",
-            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-            "skills": ["React", "Express", "MongoDB"],
-            "github": "/",
-            "link": "/"
+            "title":"Luggpicker",
+            "desc": "The purpose of this website is to: Connect traveller with agencies who offer luggage picking services so that the travellers will not have the need to wait in long lines for checking in and will not need to carry their heavy luggages to the airport with them ",
+            "skills": ["React", "Express", "MongoDB", "Nextjs"],
+            "github": "https://github.com/nazero3/LuggPicker",
+            "link": "https://luggpicker-beige.vercel.app/"
         }
     ]
 }
