@@ -19,7 +19,9 @@ function Navbar(){
 				<a href="#contact" className={styles.nav_link}>
 					<span>04.</span>Contact
 				</a>
+				<a href="https://res.cloudinary.com/duill6sid/image/upload/v1692902758/NezirAydinResume_p27ume.pdf">
 				<button className={styles.nav_resume_btn}>Resume</button>
+				</a>
 			</div>
 		</nav>
     )
